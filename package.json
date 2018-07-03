@@ -1,0 +1,17 @@
+{
+  "name": "maze-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".prettierrc.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "eslint-plugin-vue": "^4.5.0",
+    "prettier": "^1.13.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

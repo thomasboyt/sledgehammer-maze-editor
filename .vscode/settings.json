@@ -1,0 +1,15 @@
+{
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "[vue]": {
+    "editor.formatOnSave": true
+  },
+
+  "eslint.validate": ["javascript", "javascriptreact", "vue"],
+  "files.trimTrailingWhitespace": false,
+  "editor.wordWrapColumn": 80
+}
